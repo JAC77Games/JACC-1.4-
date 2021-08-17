@@ -1,2 +1,2 @@
-# JACC-1.4-
-JACC 1.4 is a programming language made in Scratch.
+# JACC Programming Language
+JACC is a programming language made in Scratch.
